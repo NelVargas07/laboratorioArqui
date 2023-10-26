@@ -5,11 +5,15 @@ h1{
 }
 
 img{
+  
     margin: 50px 50px ;
- width: 300px;
- border-radius: 15px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
 }
+
 video{
+
     width: 300px;
     border-radius: 15px;
     margin: 50px 50px ;
